@@ -1,0 +1,12 @@
+#main-toolbar #activity-button {
+  background-image: url(../activity/activity-icon.svg);
+}
+#main-toolbar #add-button {
+  background-image: url(../icons/add.svg);
+}
+.pawn{
+  background-image: url(../activity/activity-icon.svg);
+  display: inline-block;
+  width: 65px;
+  height: 65px;
+}
